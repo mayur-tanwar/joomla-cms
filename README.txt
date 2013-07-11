@@ -71,4 +71,4 @@ Copyright:
 	* See Licenses details at http://docs.joomla.org/Joomla_Licenses
 
 	
-	Here i come
+	Here i comeADAS
