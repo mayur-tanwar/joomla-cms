@@ -69,3 +69,6 @@ Copyright:
 	* Credits: http://docs.joomla.org/Joomla_3.0_Credits
 	* Distributed under the GNU General Public License version 2 or later
 	* See Licenses details at http://docs.joomla.org/Joomla_Licenses
+
+	
+	Here i come
